@@ -1,0 +1,43 @@
+workday
+weekday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+January
+February
+March
+April
+May
+June
+July
+Auguest
+September
+October
+November
+December
+
+Is the twenty fifth a workday?
+I can't wait for the weekend to arrive.
+He planned to leave Baghdad on Monday.
+Can we meet up on Tuesday?
+I expect the football game is on Wednesday.
+Meetings are held on alternate Thursdays.
+Where is the party on Friday?
+I've asked Mum to sit for us next Saturday.
+I was in the hospital last Sunday.
+This January has been so cold.
+I'll go home for holiday in February.
+This term will begin on March 1st.
+April is the time to plant trees.
+We got married on May 1st.
+Last June I decided to take a trip to Marbella.
+Every July out family goes on holiday.
+I was born in August.
+The first plane is due to lean on October 2nd.
+The kids have exams in December.
+
+
