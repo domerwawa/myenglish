@@ -1,0 +1,39 @@
+yard
+meter
+centimeter
+millimeter
+kilometer
+mile
+inch
+foot
+square foot
+square meter
+ounce
+pound
+gram
+milligram
+kilogram
+ton
+liter
+milliliter
+pint
+gallon
+Chinese yuan
+US dollar
+cent
+Great Britain pand
+peeny
+euro
+Canadian dollar
+Japanese yen
+Korean won
+Russian rouble
+Singapore dollar
+Malaysian ringgit
+Thai baht
+Indian rupee
+
+
+
+
+
