@@ -1,0 +1,77 @@
+exchange
+exchange rate
+passport
+sign
+fill out
+form
+cash
+bill
+coin
+smal change
+check
+bank
+account
+balance
+window
+apply
+application form
+service charge
+weather
+forecast
+sunny
+sunshine
+cloud
+cloudy
+rain
+rainy
+rainstorm
+thunderstorm
+rainbow
+snow
+snowy
+snowflake
+snowstorm
+thunder
+lightning
+
+Where can we exchange money?
+I'll need to see your passport.
+Can you singn this form please?
+Would you like that in cash?
+I don't have any small change on me.
+Can you write me a check?
+Which bank do you use?
+I'd like to apply for an account.
+I need to know the balance.
+You can change your money at that window.
+The weather has been so strange lately.
+What is the weather forecast for tomorrow?
+It was sunny the entire weekend.
+There should be sunshine all day.
+That cloud is shaped like a dog.
+We had rainy weather on our holiday.
+Can you see that rainbow?
+I really wish it would snow.
+Here's a picture of a snowflake.
+Did you hear the thunder last night?
+
+我们可以在哪里兑换钱？
+我需要看一下您的护照。
+请您在这张表格上签字，好吗？
+你想要现金付账吗？
+我身上没有零钱。
+您能给我写一张支票吗？
+你用哪家银行？
+我想申请一个账户。
+我需要知道余额。
+你可以在那个窗口兑换钱。
+最近天气这么奇怪。
+明天的天气预报是什么？
+整个周末都是晴天。
+应该一整天都阳光明媚。
+那朵云的形状像一只狗。
+我们的假期中下雨了。
+你能看到那道彩虹吗？
+我真希望现在下雪。
+这是一张雪花的照片。
+最晚你听到雷声了吗？
