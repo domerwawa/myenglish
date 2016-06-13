@@ -1,0 +1,30 @@
+breakfast
+milk
+oatmeal
+yoghurt
+fruit
+juice
+bread
+cake
+pancake
+waffle
+egg
+fried egg
+ham
+bacon
+sausage
+cheese
+butter
+peanut butter
+jam
+
+Did you have breakfast yet?
+Is there any oatmeal left?
+Which kind of juice would you like?
+Do you have any whole-wheat bread?
+Let's make waffles today.
+Would you like an egg?
+I'm going to buy some sausages.
+I'd like a slice of cheese.
+Pass me the butter please.
+Would you like peanut butter on your toast?
